@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Jkblog::Application.config.secret_token = 'c5d0ab90253573f70ee2ca69f37157bb48504645e9d1d7c160768307301cbb79216b787948c70513ceecf44e208e96f994ff8b79486f798f15a099d70720efe8'
+Jkblog::Application.config.secret_token = '0cd62f105a39b7eac23de75f3fdf0774d0b225bd23bc76a8096c69a185027c1f42ca8acc558d1de134aabdeb97fd2a1f0c73139b209cfdcc3cf21eec1448bd21'
